@@ -2,12 +2,12 @@
 VitalSense is a wearable smart band designed for the detection of sleep apnea using multi-sensor data fusion and machine learning. It monitors physiological signals such as PPG and SpO₂ to identify apnea events during sleep.
 
 ## Features
-- **Health monitoring:** PPG, HR, SpO₂ and temperature
-- **PPG-to-ECG conversion** using CardioGAN
-- **Machine learning-based apnea detection** (Random Forest: 90% accuracy)
-- **Bluetooth Low Energy** (BLE) data transmission
-- **Mobile app** for real-time feedback and historical data
-- **Low-power design:** ~10 hours of continuous operation
+- **Health monitoring:** PPG, HR, SpO₂ and Temperature.
+- **PPG-to-ECG conversion** using CardioGAN.
+- **Machine learning-based apnea detection** (Random Forest: 90% accuracy).
+- **Bluetooth Low Energy** (BLE) data transmission.
+- **Mobile app** for real-time feedback and historical data.
+- **Low-power design:** ~10 hours of continuous operation.
 
 ## Hardware
 - Arduino Nano 33 BLE Sense Rev2
